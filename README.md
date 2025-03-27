@@ -1,10 +1,10 @@
 # SugarCane-Production
 
-Sugarcane-Production-Project - An Exploratory Data-Analysis project
+# Sugarcane-Production-Project - An Exploratory Data-Analysis project
 
 A step-by-step Data Analysis on the World-wide Sugarcane production dataset (Dataset available in the Repository)
 
-How to initialise the project ? 🌆
+# How to initialise the project ? 🌆
 
 1.Download Anaconda Navigator from here
 
