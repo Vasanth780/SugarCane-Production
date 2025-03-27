@@ -11,7 +11,9 @@ Install Anaconda and run Jupyter Notebook from the conda GUI.
 Clone this repository by running the below line
 
 git clone https://github.com/Vasanth780
+
 Project Features
+
 Data is cleaned first thouroughly and the cleaned data is saved
 
 Univariate and Bivariate Analysis are then done on the cleaned dataset
