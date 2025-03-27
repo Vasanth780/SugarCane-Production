@@ -15,7 +15,7 @@ A step-by-step Data Analysis on the World-wide Sugarcane production dataset (Dat
 git clone https://github.com/Vasanth780
 
 
-PROJECT FEATURES
+# PROJECT FEATURES
 
 Data is cleaned first thouroughly and the cleaned data is saved
 
@@ -23,6 +23,6 @@ Univariate and Bivariate Analysis are then done on the cleaned dataset
 
 Data Visualisation is done
 
-You can explore all of this once you clone the repo and initiate the project
+# You can explore all of this once you clone the repo and initiate the project
 
 Thank You for reading. Hope you have a great day !!
