@@ -1,18 +1,20 @@
 # SugarCane-Production
 
 Sugarcane-Production-Project - An Exploratory Data-Analysis project
+
 A step-by-step Data Analysis on the World-wide Sugarcane production dataset (Dataset available in the Repository)
 
 How to initialise the project ? 🌆
-Download Anaconda Navigator from here
 
-Install Anaconda and run Jupyter Notebook from the conda GUI.
+1.Download Anaconda Navigator from here
 
-Clone this repository by running the below line
+2.Install Anaconda and run Jupyter Notebook from the conda GUI.
+
+3.Clone this repository by running the below line
 
 git clone https://github.com/Vasanth780
 
-Project Features
+PROJECT FEATURES
 
 Data is cleaned first thouroughly and the cleaned data is saved
 
